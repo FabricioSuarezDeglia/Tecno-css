@@ -279,3 +279,35 @@ tr:hover .cut {
 .small-text {
     font-size: 60%;
 }
+
+.header-image {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.contact-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.contact-item + .contact-item {
+    margin-top: 30px;
+}
+
+.icon {
+    width: 30px;
+    margin-right: 8px;
+}
