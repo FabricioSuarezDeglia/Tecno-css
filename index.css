@@ -312,23 +312,23 @@ tr:hover .cut {
     margin-right: 8px;
 }
 
-.header {
+.cost-analysis-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
 }
 
-.header-title {
+.cost-analysis-title {
     text-align: center;
     margin: 0;
 }
 
-.header-logo {
+.cost-analysis-logo {
     display: flex;
 }
 
-.logo-image {
+.cost-analysis-image {
     width: 100px;
     height: 100px;
 }
